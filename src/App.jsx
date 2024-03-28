@@ -14,27 +14,8 @@ function App() {
       </aside>
       <article className="main">
         <p>
-          kisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
-          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
-          fbskdfbsd,nfkdusfgbjds
+          content content content content content content content content
+          content content content
         </p>
       </article>
       <aside className="side side2">
