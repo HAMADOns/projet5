@@ -24,38 +24,42 @@
 .main {
   text-align: center;
   background: deeppink;
-  height: 300px;
+  height: auto;
   font-size: 24px;
+  overflow: hidden;
+  padding: 5px;
 }
 
-.aside1 {
+.side1 {
   background: gold;
 }
-.aside2 {
+.side2 {
   background: rgb(26, 218, 58);
 }
 
 @media all and (min-width: 800px) {
   .main {
     flex: 3;
+    flex-shrink: 1;
+    max-width: 100%;
   }
-  .aside1 {
+  .side1 {
     order: 1;
   }
-
+  .side2 {
+    order: 2;
+  }
   .main {
     order: 2;
   }
-  .aside2 {
-    order: 3;
-  }
+
   .footer {
     order: 4;
   }
 }
 
 @media all and (min-width: 600px) {
-  .aside {
+  .side {
     flex: 1;
   }
 }

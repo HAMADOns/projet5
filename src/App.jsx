@@ -8,14 +8,37 @@ function App() {
       <header className="header">
         <h1>Header</h1>
       </header>
-      <article className="main">
-        <p>kisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbf</p>
-      </article>
-      <aside className="aside aside1">
-        <h1>Aside 1</h1>
+
+      <aside className="side side1">
+        <h1>Side 1</h1>
       </aside>
-      <aside className="aside aside2">
-        <h1>Aside 2</h1>
+      <article className="main">
+        <p>
+          kisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjdskisdfhsd,fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,
+          fjgosdiufsdn,fbskdfbsd,nfkdusfgbjdsbfkisdfhsd,fjgosdiufsdn,
+          fbskdfbsd,nfkdusfgbjds
+        </p>
+      </article>
+      <aside className="side side2">
+        <h1>Side 2</h1>
       </aside>
       <footer className="footer">
         <h1>Footer</h1>
